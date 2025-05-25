@@ -1,0 +1,1 @@
+mlflow run -e knn -P n_neighbors=5 .
